@@ -1,0 +1,102 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\HE_THONG_SO_HDL\THUC_HANH\LAB3_DMA\DMAFinal\software\DMA_TEST\obj\default\runtime\sim\mentor
+vcontrol_slave
+IhoaAi727<kbk0PB<OlWH]2
+VghP8QP?XFIWQ`VWM]T?^R3
+Z1 dE:\HE_THONG_SO_HDL\THUC_HANH\LAB3_DMA\DMAFinal\software\DMA_TEST\obj\default\runtime\sim\mentor
+Z2 w1766478845
+8E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/control_slave.v
+FE:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/control_slave.v
+L0 1
+Z3 OV;L;10.1d;51
+r1
+31
+Z4 o-work DMA_0 -O0
+!i10b 1
+!s100 ^RIcAjm7::H`ZOW^1aoe53
+!s85 0
+!s108 1767348240.201000
+!s107 E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/control_slave.v|
+!s90 -reportprogress|300|E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/control_slave.v|-work|DMA_0|
+!s101 -O0
+vDMAFinal
+IcJ8SfC7G<Z<0LDmjK[lTU2
+VA5^iAzA:G:RiSOPZcQJo?3
+R1
+R2
+8E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/DMAFinal.v
+FE:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/DMAFinal.v
+L0 1
+R3
+r1
+31
+R4
+n@d@m@a@final
+!i10b 1
+!s100 6`DCEhD9lYAMc?FBW5XPI2
+!s85 0
+!s108 1767348240.139000
+!s107 E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/DMAFinal.v|
+!s90 -reportprogress|300|E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/DMAFinal.v|-work|DMA_0|
+!s101 -O0
+vFIFO
+IYOl>aZ1V4EIQl:a@oBHC_1
+VDi6?8]z;e2I:D7>KOEfDj3
+R1
+R2
+8E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/FIFO.v
+FE:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/FIFO.v
+L0 1
+R3
+r1
+31
+R4
+n@f@i@f@o
+!i10b 1
+!s100 WL`_k9H=odTlm1dPhmc>g2
+!s85 0
+!s108 1767348240.275000
+!s107 E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/FIFO.v|
+!s90 -reportprogress|300|E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/FIFO.v|-work|DMA_0|
+!s101 -O0
+vread_master
+I5bi6FO[626l@93_BSob]N2
+V5beVoWlmdWNVYOJhROz952
+R1
+R2
+8E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/read_master.v
+FE:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/read_master.v
+L0 1
+R3
+r1
+31
+R4
+!i10b 1
+!s100 AlLSQEin=YJnL7U2YQOSK0
+!s85 0
+!s108 1767348240.346000
+!s107 E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/read_master.v|
+!s90 -reportprogress|300|E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/read_master.v|-work|DMA_0|
+!s101 -O0
+vwrite_master
+!i10b 1
+!s100 dA6:kohJXKT88@OGlnf1I1
+I>Xoc==l=PjHKWW1J0l8gP2
+VCVYHnfMIkF7A_za0>oM3S0
+R1
+R2
+8E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/write_master.v
+FE:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/write_master.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1767348240.414000
+!s107 E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/write_master.v|
+!s90 -reportprogress|300|E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/write_master.v|-work|DMA_0|
+!s101 -O0
+R4

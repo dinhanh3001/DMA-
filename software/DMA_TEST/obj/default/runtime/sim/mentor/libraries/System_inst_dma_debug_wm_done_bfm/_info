@@ -1,0 +1,28 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\HE_THONG_SO_HDL\THUC_HANH\LAB3_DMA\DMAFinal\software\DMA_TEST\obj\default\runtime\sim\mentor
+valtera_conduit_bfm
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+DXx26 altera_avalon_vip_pkgs_lib 13 verbosity_pkg 0 22 dXfOgVCI[10Fo;Od0BA1@3
+!i10b 1
+!s100 gfdnTE@Zz5BX?`Rj0kZ<F3
+I9]53G4bVa]=bjLL9S1_`O1
+Vd0T6@?5a;<G>FEN6611UP1
+!s105 altera_conduit_bfm_sv_unit
+S1
+Z2 dE:\HE_THONG_SO_HDL\THUC_HANH\LAB3_DMA\DMAFinal\software\DMA_TEST\obj\default\runtime\sim\mentor
+Z3 w1766478840
+8E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/altera_conduit_bfm.sv
+FE:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/altera_conduit_bfm.sv
+L0 36
+Z4 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1767348241.230000
+!s107 E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/altera_conduit_bfm.sv|
+!s90 -reportprogress|300|-sv|E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/altera_conduit_bfm.sv|-L|altera_avalon_vip_pkgs_lib|-work|System_inst_dma_debug_wm_done_bfm|
+!s101 -O0
+o-sv -L altera_avalon_vip_pkgs_lib -work System_inst_dma_debug_wm_done_bfm -O0

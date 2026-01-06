@@ -1,0 +1,51 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\HE_THONG_SO_HDL\THUC_HANH\LAB3_DMA\DMAFinal\software\DMA_TEST\obj\default\runtime\sim\mentor
+vSystem_id_router_001
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+!s100 `<0YMiDKofY6Yg@09jRe00
+ImHicU7CMa4mz=m:hkDkYY0
+VgMP=F7>>m`S:oPzdWWgBi1
+Z2 !s105 System_id_router_001_sv_unit
+S1
+Z3 dE:\HE_THONG_SO_HDL\THUC_HANH\LAB3_DMA\DMAFinal\software\DMA_TEST\obj\default\runtime\sim\mentor
+Z4 w1766478845
+Z5 8E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/System_id_router_001.sv
+Z6 FE:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/System_id_router_001.sv
+L0 86
+Z7 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z8 !s108 1767348239.274000
+Z9 !s107 E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/System_id_router_001.sv|
+Z10 !s90 -reportprogress|300|-sv|E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/System_id_router_001.sv|-work|id_router_001|
+!s101 -O0
+Z11 o-sv -work id_router_001 -O0
+n@system_id_router_001
+vSystem_id_router_001_default_decode
+R1
+!i10b 1
+!s100 7jTQBzSiXkRfW][W0ga=k1
+IH4a6d8hN0Zd^cB96QePh81
+VczR:kfg`cFm<b4aoaS>QE1
+R2
+S1
+R3
+R4
+R5
+R6
+L0 45
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+n@system_id_router_001_default_decode

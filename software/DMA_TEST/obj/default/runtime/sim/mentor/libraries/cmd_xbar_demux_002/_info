@@ -1,0 +1,28 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\HE_THONG_SO_HDL\THUC_HANH\LAB3_DMA\DMAFinal\software\DMA_TEST\obj\default\runtime\sim\mentor
+vSystem_cmd_xbar_demux_002
+DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+!s100 C]>9RJE@X7n5z^9KM__M70
+IodSIiC@7`HVF;Of6WYa?h1
+Vdk9OEN99AWm@RJKO:JXiE3
+!s105 System_cmd_xbar_demux_002_sv_unit
+S1
+Z1 dE:\HE_THONG_SO_HDL\THUC_HANH\LAB3_DMA\DMAFinal\software\DMA_TEST\obj\default\runtime\sim\mentor
+w1766478845
+8E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/System_cmd_xbar_demux_002.sv
+FE:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/System_cmd_xbar_demux_002.sv
+L0 43
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1767348238.806000
+!s107 E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/System_cmd_xbar_demux_002.sv|
+!s90 -reportprogress|300|-sv|E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/System_cmd_xbar_demux_002.sv|-work|cmd_xbar_demux_002|
+!s101 -O0
+o-sv -work cmd_xbar_demux_002 -O0
+n@system_cmd_xbar_demux_002

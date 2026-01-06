@@ -1,0 +1,28 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\HE_THONG_SO_HDL\THUC_HANH\LAB3_DMA\DMAFinal\software\DMA_TEST\obj\default\runtime\sim\mentor
+vSystem_irq_mapper
+DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+!s100 PzcnJY:SzRdi67kI^MeDz1
+IBJ4hRe?z_b;T5`giSUf3d0
+V1=BDAUHT9BTaMXH@TZh9J3
+!s105 System_irq_mapper_sv_unit
+S1
+Z1 dE:\HE_THONG_SO_HDL\THUC_HANH\LAB3_DMA\DMAFinal\software\DMA_TEST\obj\default\runtime\sim\mentor
+w1766478845
+8E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/System_irq_mapper.sv
+FE:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/System_irq_mapper.sv
+L0 31
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1767348237.952000
+!s107 E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/System_irq_mapper.sv|
+!s90 -reportprogress|300|-sv|E:/HE_THONG_SO_HDL/THUC_HANH/LAB3_DMA/DMAFinal/System/testbench/System_tb/simulation/submodules/System_irq_mapper.sv|-work|irq_mapper|
+!s101 -O0
+o-sv -work irq_mapper -O0
+n@system_irq_mapper
